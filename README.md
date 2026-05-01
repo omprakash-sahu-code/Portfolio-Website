@@ -2,46 +2,72 @@
 
 A modern, high-performance developer portfolio focused on **execution, interaction, and clean design**.
 
-This project is not just a static portfolio — it reflects how I think, build, and ship ideas quickly.
+This project is not just a static portfolio — it reflects how I think, build, and ship ideas.
 
 ---
 
-## ✨ Features
+## 🌐 Live Demo
 
-* ⚡ Smooth page transitions and animations
-* 🎯 Custom cursor and interactive UI elements
-* 🧠 System-driven design (not just components)
-* 📱 Fully responsive layout
-* 🎨 Minimal, high-contrast aesthetic
-* 🚀 Optimized performance with modern tooling
+(https://omprakash-sahu.vercel.app/).
 
----
-
-## 🛠️ Tech Stack
-
-* **Framework:** Next.js
-* **Language:** TypeScript
-* **Styling:** Tailwind CSS
-* **Animations:** Framer Motion
-* **Deployment:** Vercel
+[NOTE: Open in desktop for best view]
 
 ---
 
 ## 📸 Preview
 
-*(Adding screenshots soon)*
+<table>
+  <tr>
+    <td><img src="./public/assets/home.png.png" width="100%"/></td>
+    <td><img src="./public/assets/about.png.png" width="100%"/></td>
+  </tr>
+  <tr>
+    <td><img src="./public/assets/projects.png.png" width="100%"/></td>
+    <td><img src="./public/assets/contact.png.png" width="100%"/></td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 What Makes This Different
+## ✨ Features
 
-Most portfolios focus on listing projects.
+- ⚡ Smooth animations and transitions  
+- 🎯 Custom cursor & interactive UI  
+- 🧠 System-driven design approach  
+- 📱 Responsive layout (optimized for desktop experience)  
+- 🎨 Minimal, high-contrast visual style  
+- 🚀 Performance-focused architecture  
 
-This one focuses on **how I build**:
+---
 
-* Fast execution over endless planning
-* Thinking in systems, not isolated features
-* Creating experiences, not just pages
+## 🛠️ Tech Stack
+
+- **Next.js** — app structure & routing  
+- **React** — component architecture  
+- **TypeScript** — type safety  
+- **GSAP** — advanced animations  
+- **Lenis** — smooth scrolling  
+- **Vanilla CSS** — custom styling  
+
+---
+
+## 🧠 Approach
+
+Instead of just building sections, I focused on:
+
+- Thinking in systems (UI + interaction + performance)  
+- Fast execution and iteration  
+- Building experiences, not just pages  
+
+---
+
+## 🚧 Status 
+⚠️ This project is still evolving and not fully complete. I continuously improve and refine it as I learn and build. 
+
+---
+
+## 🤝 Connect 
+If you want to collaborate, discuss ideas, or just connect — feel free to reach out. 
 
 ---
 
@@ -52,53 +78,3 @@ Clone the repository:
 ```bash
 git clone https://github.com/omprakash-sahu-code/Portfolio-Website.git
 cd Portfolio-Website
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
----
-
-## 📂 Project Structure
-
-```bash
-/app        → Core app structure (Next.js)
-/components → Reusable UI components
-/styles     → Global styles
-```
-
----
-
-## 🚧 Status
-
-⚠️ This project is still evolving and not fully complete.
-I continuously improve and refine it as I learn and build.
-
----
-
-## 🌐 Live Demo
-
-*(Link adding soon)*
-
----
-
-## 🤝 Connect
-
-If you want to collaborate, discuss ideas, or just connect — feel free to reach out.
-
----
-
-## ⭐ Final Note
-
-This project represents my mindset:
-
-> Learn fast. Build fast. Improve constantly.
